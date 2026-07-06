@@ -119,7 +119,7 @@ personalized, data-driven movie suggestions.
 
 </div>
 
-> ⚠️ **Note:** replace `ahmedelfattah06` above with your exact GitHub username so the stats cards pull your real data.
+> ahmedelfattah06
 
 ---
 

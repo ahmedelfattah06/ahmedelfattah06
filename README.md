@@ -119,7 +119,7 @@ personalized, data-driven movie suggestions.
 
 </div>
 
-> ahmedelfattah06
+> [ahmedelfattah06](https://github.com/ahmedelfattah06)
 
 ---
 

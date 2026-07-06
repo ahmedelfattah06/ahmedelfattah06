@@ -17,7 +17,25 @@
 
 ---
 
-### `whoami`
+### 👋 About Me
+
+I'm an **AI / Machine Learning Engineer** and **Backend Developer** who loves turning
+messy real-world problems into clean, intelligent software. I got into this field
+because I wanted to build things that actually *think* — not just apps that store and
+display data, but systems that learn from it and make smarter decisions over time.
+
+My day-to-day work moves across the full stack of an AI product: cleaning and exploring
+data, training and evaluating models, and then wrapping all of that into secure,
+well-structured backend APIs that a real application can rely on. I'm especially drawn
+to **Computer Vision**, **NLP**, and **Recommendation Systems** — anything where a model
+has to understand something messy (an image, a sentence, a user's behavior) and turn it
+into a useful signal.
+
+One thing that sets how I build apart: I don't just chase model accuracy in a notebook.
+I care just as much about the architecture around the model — the database design, the
+authentication, the API contracts — because an AI feature is only as good as the product
+it's shipped inside of. That's the philosophy behind projects like **Glucora**, where the
+ML pipeline and the backend were designed together from day one, not bolted on afterward.
 
 ```yaml
 name: Ahmed Mohamed Abdelfattah
@@ -27,13 +45,11 @@ focus:
   - Computer Vision & NLP
   - Recommendation Systems
   - Scalable Backend Architecture (APIs, Databases, Auth)
+currently:
+  - Building "Glucora" — an AI-powered diabetes management app
+  - Sharpening backend fundamentals through hands-on API projects
 mission: "Solving real-world problems through AI-driven, production-ready software"
 ```
-
-I design and build **end-to-end intelligent systems** — from data processing and model
-development, to the backend APIs and databases that bring them to life. My work sits at
-the intersection of **AI/ML** and **solid backend engineering**, with a strong focus on
-turning research-grade ideas into products people can actually use.
 
 ---
 
@@ -118,8 +134,7 @@ personalized, data-driven movie suggestions.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelfattah06&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
-
-> [ahmedelfattah06](https://github.com/ahmedelfattah06)
+https://github.com/ahmedelfattah06
 
 ---
 

@@ -115,16 +115,10 @@ personalized, data-driven movie suggestions.
 
 ---
 
-### 📊 GitHub Stats
+### Let's Build Something
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedelfattah06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelfattah06&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelfattah06&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
+Working on an AI product, an ML-powered feature, or a backend that needs to scale?
+I'm always open to a conversation — reach out below.
 
 ---
 

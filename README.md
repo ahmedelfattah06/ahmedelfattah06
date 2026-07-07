@@ -35,14 +35,8 @@ is served, how the system behaves under load.
 My work spans artificial intelligence, deep learning, computer vision, and NLP, through
 to recommendation systems, generative AI, and LLM-based applications built with RAG and
 prompt engineering — all backed by backend development that makes the intelligence
-usable.
-
-```yaml
-currently:
-  - Building "Glucora" — an AI-powered diabetes management app
-  - Sharpening backend fundamentals through hands-on API projects
-mission: "Solving real-world problems through AI-driven, production-ready software"
-```
+usable. Right now, I'm building **Glucora**, an AI-powered diabetes management app,
+while sharpening my backend fundamentals through hands-on API projects.
 
 ---
 
@@ -131,8 +125,6 @@ personalized, data-driven movie suggestions.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelfattah06&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
-
-> Replace `ahmedelfattah06` above with your exact GitHub username so the stats cards pull your real data.
 
 ---
 

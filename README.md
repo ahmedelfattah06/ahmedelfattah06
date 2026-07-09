@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ahmed-mohamed-abdelfattah-8457b535a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[ahmedelfattah06@gmail.com](https://mail.google.com/mail/?view=cm&fvcv=1&to=ahmedelfattah06@gmail.com)">
+  <a href="https://mail.google.com/mail/?view=cm&fvcv=1&to=ahmedelfattah06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -133,7 +133,7 @@ reliable, and impactful solutions for real-world challenges.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-mohamed-abdelfattah-8457b535a/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahmedelfattah06@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fvcv=1&to=ahmedelfattah06@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
